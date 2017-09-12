@@ -4,20 +4,20 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
 
-owner:
-  name:           Adam Smith
-  avatar:         #"me-200x200.gif"
-  bio:            "Baseball Coach, Beer Lover, Scala Programmer"
-  email:          agsmith11@gmail.com
+#owner:
+#  name:           Adam Smith
+#  avatar:         #"me-200x200.gif"
+#  bio:            "Baseball Coach, Beer Lover, Scala Programmer"
+#  email:          agsmith11@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: agsmith
-  facebook:
-  github: agsmith
-  stackexchange:
-  linkedin:
-  instagram:
-  flickr:
-  tumblr:
-  google_plus:
+  # twitter: agsmith
+  # facebook:
+  # github: agsmith
+  # stackexchange:
+  # linkedin:
+  # instagram:
+  # flickr:
+  # tumblr:
+  # google_plus:
 
-url: http://agsmith.github.io
+# url: http://agsmith.github.io
