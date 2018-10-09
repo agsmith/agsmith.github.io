@@ -4,7 +4,7 @@ I have worked with fs2 a bit over the past year, but this month I have begun to 
 # [](#header-1) Basic Architecture
 In designing this sample application, it is my intent to use software best practices.  I will first set out to model my domain objects, `ComicBook` and `Order` 
 
-```
+```scala
 case class ComicBook(
   title: Title,
   publisher: Publisher,
