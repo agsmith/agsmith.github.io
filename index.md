@@ -29,10 +29,7 @@ This flow describes the regular TLS handshake process where Server Auth is impli
 ### Encrypted Message Transfer: Client <-> Server
 
 
-
-
-
-## Client of Mutually Authenticated TLS
+## Client or Mutually Authenticated TLS
 This section describes a Client or Mutual Auth Handshake.  The new actions are in **bold**
 
 ### Client Hello: Client -> Server
