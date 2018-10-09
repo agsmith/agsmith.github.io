@@ -9,8 +9,7 @@ owner:
  avatar:         #"me-200x200.gif"
  bio:            "Baseball Coach, Beer Lover, Scala Programmer"
  email:          agsmith11@gmail.com
-  Social networking links used in footer. Update and remove as you like.
-  twitter: agsmith
-  github: agsmith
+  # twitter: agsmith
+  # github: agsmith
 
 url: http://agsmith.github.io
