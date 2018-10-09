@@ -1,11 +1,11 @@
-title: Mr. Smith
+title: MR. SMITH
 description: explorative notes on whatever I'm doing now
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
 
-# owner:
-#  name:           Adam Smith
+owner:
+ name:           Adam Smith
 #  avatar:         #"me-200x200.gif"
 #  bio:            "Baseball Coach, Beer Lover, Scala Programmer"
 #  email:          agsmith11@gmail.com
