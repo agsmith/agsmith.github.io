@@ -49,7 +49,7 @@ This section describes a Client or Mutual Auth Handshake.  The new actions are i
 - Client generates a session key using the agreed upon cipher suite and TLS version parameters
 - Client encrypts the session key in the Server's public key
 - Client sends the Server the encrypted session key
-- ** Client sends Server the clients certificate if it has been requested**
+- <mark>Client sends Server the clients certificate if it has been requested</mark>
 
 ### **Server Validates Client**
 - **Server validates the Clients certificate is signed by a trusted CA**
