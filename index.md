@@ -53,7 +53,6 @@ This section describes a Client or Mutual Auth Handshake.  The new actions are i
 
 ### **Server Validates Client**
 - **Server validates the Clients certificate is signed by a trusted CA**
-- **Server validates the clients hostname matches that in the certificate**
 
 ### Client Finished: Client -> Server
 
